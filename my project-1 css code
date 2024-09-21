@@ -1,0 +1,354 @@
+
+.header{
+    background-color: rgb(44, 44, 44);
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+.header>ul{
+    color: rgb(141, 140, 140);
+    /* list-style-type: none; */
+    display: grid;
+    justify-content: space-evenly;
+    grid-template-columns: repeat(6,1fr);
+    grid-gap :20px;
+}
+.header>ul>li:hover{
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    /* font-weight: 800; */
+
+/* ----------------------------- */
+}
+.header-2{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    align-items: center;
+    grid-gap: 100px;
+    
+}
+.header-2-1 ,.header-2-2{ 
+    border: 2px outset gray;
+    display: flex;
+    padding-left: 40px;
+}
+.header-2-1:hover{
+    background-color: orange;
+    color: white;
+}
+.header-2-2:hover{
+    background-color: blue;
+    color: white;
+}
+.header-2>div>a{
+    margin-top: 20px;
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+}
+.header-2>div>a:hover{
+    color: white;
+}
+/* --------------------------------------------Trending courses------------------- */
+
+.header-3{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    justify-content: space-evenly;
+}
+.header-3>section,aside{
+    padding: 15px;
+    background-color: white;
+    transition-duration: 1s;
+}
+.header-3>section:nth-child(2n+1):hover{
+    background-color: orange;
+    border-radius: 20px;
+    transition-duration: 0.8s;
+    transform: none;
+
+}
+.header-3>section:nth-child(2n+0):hover{
+    background-color: aqua;
+    border-radius: 20px;
+    transition-duration: 0.8s;
+    transform: none;
+
+}
+.header-3>aside:nth-child(2n+1):hover{
+    background-color: aqua;
+    border-radius: 20px;
+    transition-duration: 0.8s;
+    transform: none;
+
+}
+.header-3>aside:nth-child(2n+0):hover{
+    background-color: orange;
+    border-radius: 20px;
+    transition-duration: 0.8s;
+    transform: none;
+
+}
+
+/* --------------------------------------Reviews------------------------*/
+.sub-sec-1{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+}
+.sub-sec-2{
+    text-align: center;
+}
+.sub-sec-2>p>span:hover{
+    
+    background-color: aqua;
+    font-weight: bolder;
+    border-radius: 20px;
+    /* transition-duration: 0.7s; */
+
+}
+.sub-sec-1>div{
+    background-color: rgb(224, 224, 224);
+    border-radius: 20px;
+    
+}
+.sub-sec-1>div:nth-child(3n+0):hover{
+    background-color: rgb(255, 180, 192);
+}
+.sub-sec-1>div:nth-child(3n+1):hover{
+    background-color: rgb(203, 255, 124);
+}
+.sub-sec-1>div:nth-child(3n+2):hover{
+    background-color: rgb(255, 227, 170);
+}
+/* ----------------------------------------why we are in top --------------------------------------------------- */
+.why-we{
+    text-align: center;
+    background-image: url(https://www.achieversit.com/assets/images/12490.jpg);
+    background-size: cover;
+}
+.why-we>h3{
+    font-size: 30px;
+    color: rgba(0, 0, 107, 0.692)
+}
+.why-we>p{
+    color: rgba(0, 0, 107, 0.692)
+}
+.why-we-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.why-we-box>div{
+    text-align: center;
+    font-size: 15px;
+    width: 250px;
+    justify-content: space-evenly;
+    background:-moz-linear-gradient(white,white);
+    border-radius: 20px;
+
+}
+.why-we-box>div:hover{
+    background:linear-gradient(90deg,orange,rgb(247, 196, 101));
+    color: white;
+   
+    width: 256px;
+}
+.why-we-box>div:nth-child(odd):hover{
+    background:linear-gradient(90deg,rgb(0, 253, 253),rgb(160, 241, 255));
+  
+    width: 256px;
+
+}
+.why-we-box>div>p>span{
+        color: rgba(0, 0, 107, 0.692);
+        font-weight: bolder;
+        font-size: 40px;
+}
+/* ----------------------------------------------OUR TRAINERS FROM--------------------------------- */
+.our-trainers-album>img{
+   width: 150px;
+   height: 50px;
+   margin-left: 20px;
+   background: url(https://images.pexels.com/photos/7078717/pexels-photo-7078717.jpeg?auto=compress&cs=tinysrgb&w=600);
+   background-size: cover;
+   padding: 30px;
+
+}
+.our-trainers-album>img:hover{
+    padding: 34px;}
+
+.our-trainers-album{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 20px;
+}
+
+/* ------------------------------------------------KNOW US BETTER FOR YOUR FUTURE ! ----------- */
+.know-us{
+    background: url(https://images.pexels.com/photos/10992766/pexels-photo-10992766.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size: cover;
+}
+.know-us>ol>li>span{
+    font-weight: bold;
+    text-decoration:underline;
+}
+.know-form{
+    margin-left: 140px;
+    margin-right: 100px;
+    padding: 5px;
+    padding-bottom: 15px;
+    background-color: rgb(226, 252, 255);
+    opacity: 0.6;
+}
+#reach-us{
+    opacity: 1;
+    font-weight: bold;
+    font-style: italic;
+}
+#reach-us:hover{
+    color: white;
+    background-color: orange;
+}
+
+
+/* ---------------------------------------------------------Locations--------------------------------------------------- */
+.location-head{
+    text-align: center;
+    letter-spacing: 0.8px;
+    word-spacing: 0.5px;
+}
+.location-1 , .location-2{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 10px;
+    align-content:space-evenly;
+}
+.location-1>div, .location-2>div{
+    border: 2px inset gray;
+    text-align: center;
+    width: 400px;
+}
+.location-1>div:nth-child(3n+2){
+            background: radial-gradient(circle 400px at 50% 120%, aqua, orange);
+}   
+.location-1>div:nth-child(3n+1){
+    background:linear-gradient(-45deg, aqua, orange);
+
+}
+.location-1>div:nth-child(3n+0){
+    background:linear-gradient(45deg, aqua, orange);
+}
+
+.location-2>div:nth-child(3n+2){
+    background: radial-gradient(circle 400px at 50% -20%, aqua, orange);
+}   
+.location-2>div:nth-child(3n+1){
+    background:linear-gradient(45deg, orange, aqua);
+
+}
+.location-2>div:nth-child(3n+0){
+    background:linear-gradient(-45deg, orange, aqua);
+}
+
+
+/* --------------------------------------------------------Address-------------------------------------------- */
+.foot-black{
+    background-color: black;
+}
+.foot-1{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    color: rgb(157, 157, 157);
+    background-color: black;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+.fix-foot>li{
+    list-style-type: none;
+   border-radius: 50px;
+    margin-top: 5px;
+    font-size: larger;
+}       
+.foot-1>div>ul>li:hover{
+    color: orangered;
+}
+
+.row{
+    display: grid;
+    grid-template-columns: auto;
+}
+.foot-head-1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.foot-head-1:hover{
+    text-decoration: underline;
+}
+/* //////////////////////////// */
+
+.icon-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-gap: 20px;
+    background-color: black;
+    color: white ;
+}
+.icon-1>i{
+    color: black;
+    background-color: white;
+    border-radius: 50%;
+    border-radius:20px;
+    padding: 5px;
+    transition-duration: 1s;
+    transform: rotate(-0deg);
+    margin-top: 10px;
+}
+.icon-1>i[class*=fa-brands]:hover{
+    transition-duration: 1s;
+    transform: rotate(360deg);
+  background-color:blue ;
+  color: white;
+}
+.icon-1>i[class*=pinterest]:hover{
+        background-color:red;
+        color: white;
+}
+.icon-1>i[class*=youtube]:hover{
+    color: white;
+    background-color:red;
+}
+/* ////////////////////////// */
+.foot-2-cont{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.foot-2-cont>li{
+    margin-top: 15px;
+    margin-left: 150px;
+}
+.foot-2-cont>li:hover{
+    color: rgb(255, 85, 0);
+}
+
+/* ///////////////////////////// */
+.footer-fixed{
+    position: fixed;
+    top: 480px;
+    width: 100%;
+}
+.fix-foot{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: black;
+    color: white;
+    font-size:25px
+}
+.fix-foot>li:nth-child(3n+0){
+    color: blue;
+}
+.fix-foot>li:hover{
+    color: rgb(255, 98, 0);
+}
+
