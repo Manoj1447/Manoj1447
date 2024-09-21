@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Achievers IT</title>
+    <link rel="stylesheet" href="./project-1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    
+</head>
+<body>
+    <div>
+        <div class="header">
+            <img src="https://www.achieversit.com/assets/images/logo-white.png" alt="AIT">
+    
+            <ul >
+                <li>
+                    <details>
+                        <summary>All Courses</summary>
+                        <!-- <p>Front-end courses</p>
+                        <p>Full stack courses</p>
+                        <p>Data science</p>
+                        <p>Digital marketing Courses</p> -->
+                    </details>
+                </li>
+                <li>Corporate Training</li>
+                <li>Placements</li>
+                <li>Internship</li>
+                <li>Reviews</li>
+                <li>Blog</li>
+            </ul>
+        </div> <br>
+        <!-- ==================================================== -->
+        <div class="header-2">
+            <div class="header-2-1">
+                <p>Become a <br> <b>Ui Developer</b></p>
+                <a href="know more">Know more ></a>
+            </div>
+            <div class="header-2-2">
+                <p>Become a <br> <b>Angular Developer</b></p>
+                 <a href="know more">Know more ></a>
+            </div>
+            <div class="header-2-1">        
+                <p>Become a <br><b>React Js Deloper</b></p>
+                 <a href="know more">Know more ></a>
+            </div>
+        </div>
+        <!-- =========================TRENDING Courses======================== -->
+         
+        <div class="header-3">
+            <section>
+                <h3>Angular Development Course</h3>
+                <p>Angular is popular for making dynamic applications and its information official and reliance infusion includes altogether lessen the measure of code that should be composed. </p>
+            </section>
+            <section>
+                <h3>React Development Course</h3>
+                <p>Angular is popular for making dynamic applications and its information official and reliance infusion includes altogether lessen the measure of code that should be composed. </p>
+            </section>
+            <section>
+                <h3>Mean Stack Development Course</h3>
+                <p>Angular is popular for making dynamic applications and its information official and reliance infusion includes altogether lessen the measure of code that should be composed. </p>
+            </section>
+            <section>
+                <h3>Mern stack Development Course</h3>
+                <p>Angular is popular for making dynamic applications and its information official and reliance infusion includes altogether lessen the measure of code that should be composed. </p>
+            </section>
+            </div>
+            <div class="header-3">
+            <aside>
+                <h3> Web Development Course</h3>
+                <p>Angular is popular for making dynamic applications and its information official and reliance infusion includes altogether lessen the measure of code that should be composed. </p>
+            </aside>
+            <aside> 
+                <h3>Digital Marketing Course</h3>
+                <p>Angular is popular for making dynamic applications and its information official and reliance infusion includes altogether lessen the measure of code that should be composed. </p>
+            </aside>
+            <aside>
+                <h3> React Native Development Course</h3>
+                <p>Angular is popular for making dynamic applications and its information official and reliance infusion includes altogether lessen the measure of code that should be composed. </p>
+            </aside>
+            <aside>
+                <h3>Ionic Development Course</h3>
+                <p>Angular is popular for making dynamic applications and its information official and reliance infusion includes altogether lessen the measure of code that should be composed. </p>
+            </aside>
+            </div>
+            <!-- =========================Reviews========================================= -->
+    
+        <div class="section-1">
+            <h3>Reviews</h3>
+                <div class="sub-sec-1">
+                    <div class="sub-sec-2">
+                        <h4>Surya</h4>
+                        <p>ReactJS Certification Training <br>&#9733 &#9733 &#9733 &#9733 &#9733</p>
+                        <p>I enrolled for Angular and React js training session conducted by AchieversIT ,It was a great learning <br><br><span>Read more</span></p>
+                    </div>
+                    <div class="sub-sec-2">
+                        <h4>kishan</h4>
+                        <p>ReactJS Certification Training <br>&#9733 &#9733 &#9733 &#9733 &#9733</p>
+                        <p>I enrolled for Angular and React js training session conducted by AchieversIT ,It was a great learning <br><br><span>Read more</span></p>
+                    </div>
+                    <div class="sub-sec-2">
+                        <h4>Bujji</h4>
+                        <p>ReactJS Certification Training <br>&#9733 &#9733 &#9733 &#9733 &#9733</p>
+                        <p>I enrolled for Angular and React js training session conducted by AchieversIT ,It was a great learning <br><br><span>Read more</span></p>
+                    </div>
+                </div> <br>
+                <div class="sub-sec-1">
+                    <div class="sub-sec-2">
+                        <h4>Surya</h4>
+                        <p>ReactJS Certification Training <br>&#9733 &#9733 &#9733 &#9733 &#9733</p>
+                        <p>I enrolled for Angular and React js training session conducted by AchieversIT ,It was a great learning <br><br><span>Read more</span></p>
+                    </div>
+                    <div class="sub-sec-2">
+                        <h4>kishan</h4>
+                        <p>ReactJS Certification Training <br>&#9733 &#9733 &#9733 &#9733 &#9733</p>
+                        <p>I enrolled for Angular and React js training session conducted by AchieversIT ,It was a great learning <br><br><span>Read more</span></p>
+                    </div>
+                    <div class="sub-sec-2">
+                        <h4>Bujji</h4>
+                        <p>ReactJS Certification Training <br>&#9733 &#9733 &#9733 &#9733 &#9733</p>
+                        <p>I enrolled for Angular and React js training session conducted by AchieversIT ,It was a great learning <br><br><span>Read more</span></p>
+                    </div>
+                </div> <br>
+                <div class="sub-sec-1">
+                    <div class="sub-sec-2">
+                        <h4>Surya</h4>
+                            <p>ReactJS Certification Training <br>&#9733 &#9733 &#9733 &#9733 &#9733</p>
+                            <p>I enrolled for Angular and React js training session conducted by AchieversIT ,It was a great learning <br><br><span>Read more</span></p>
+                    </div>
+                    <div class="sub-sec-2">
+                        <h4>kishan</h4>
+                        <p>ReactJS Certification Training <br>&#9733 &#9733 &#9733 &#9733 &#9733</p>
+                        <p>I enrolled for Angular and React js training session conducted by AchieversIT ,It was a great learning <br><br><span>Read more</span></p>
+                    </div>
+                    <div class="sub-sec-2">
+                        <h4>Bujji</h4>
+                        <p>ReactJS Certification Training <br>&#9733 &#9733 &#9733 &#9733 &#9733</p>
+                        <p>I enrolled for Angular and React js training session conducted by AchieversIT ,It was a great learning <br><br><span>Read more</span></p>
+                    </div>
+                </div>
+        </div>
+
+    </div>
+    <!-- ----------------------------------------why we are in top---------------------------------------------- -->
+     <div class="why-we">
+        <h3>Why We are on TOP 1</h3>
+        <p> More people train with AcheiversIT because of ourcommitment to quality, Placement Support, and Real-time Training.</p>
+        <section class="why-we-box">
+            <div>
+                <p><span>135 +</span> <br> TRENDING COURSES</p>
+            </div>
+            <div>
+                <p><span>60 +</span> <br>IT Companies are tied-UP to hire our trained students</p>
+            </div>
+            <div>
+                <p><span>25 +</span> <br>Students attend Interviews every day through our Placement Cell</p>
+            </div>
+            <div>   
+                <p><span>3 +</span> <br>Of our students Get Jobs every day in Bangalore and India</p>
+            </div>
+        </section>
+     </div>
+     <!-- ------------------------------------Our Trainers From------------------------------------------------- -->
+        <h3>Our Trainers From</h3>   
+     <div class="our-trainers-album">
+            <img src="./Project files/our trainers from/Cognigent.png" alt="cognizant">
+            <img src="./Project files/our trainers from/ui_Development_training.png" alt="hcl">
+            <img src="./Project files/our trainers from/angualr_development_training.png" alt="infosys">
+            <img src="./Project files/our trainers from/aws_development_training.png" alt="accenture">
+            <img src="./Project files/our trainers from/boostrap_development .png" alt="oracle">
+            <img src="./Project files/our trainers from/react_development_training.png" alt="ibm">
+            <img src="./Project files/our trainers from/software_development_training.png" alt="amazon">
+            <img src="./Project files/our trainers from/software_training_courses.png" alt="visa">
+            <img src="./Project files/our trainers from/web_development_training.png" alt="flipcart">
+            <img src="./Project files/our trainers from/angularjs_training.png" alt="dell">
+        </div>
+     <!-- -----------------------------KNOW US BETTER FOR YOUR FUTURE !-------------------------------------------- -->
+
+    <div class="know-us">
+        <h2 class="know-bord">KNOW US BETTER FOR YOUR FUTURE !</h2>
+        <p>We, AchieversIT are here to assist you in gaining the best deal of knowledge and landing at your dream job. Fresher or experienced, we always have a hope to hop into new domains and fields to quicken up the pace in our career growth. AchieversIT is dedicated to its services to enhance your skills to make a better move towards a better future in your career.</p>
+        <p>AchieversIT has been delivering outstanding quality training in IT sector courses. 8 years of experience in furnishing qualitative training, AchieversIT has gained its own fame in leading an individual to land at their dream job.</p>
+        <p>Are you looking out for a job or job switch? Despite the fact that your background relates to technical or non-technical, you can always find a choice for you with us. AchieversIT is your best training partner to help you move forward in your career with confidence and ample amount of knowledge. AchieversIT provides different trainings to boost up your vocation, namely :</p>
+
+        <ol>
+            <li><span>Front-end course</span><br>User Interface Development ; Web Interface Development ; Angular Training ; ReactJS Development ; VueJS Development ; BootStrap Development ; Material Development.
+                <ul>
+                    <li>AchieversIT can be listed out as the best UI Development training centre, whereas locates UI Development training in Bangalore ; UI Development training in Marathahalli ; also benefits as UI training online and UI Developer training.</li>
+                    <li>AchieversIT stands out as the best Angular Development training centre, whereas locates Angular Development training in Bangalore ; Angular training in Marathahalli; also benefits as Angular training online and Angular online training. Also the courses come with variations like Angular UI Bootstrap ; AngularJS UI Bootstrap ; Angular JavaScript ; JavaScript AngularJS.</li>
+                    <li>AchieversIT is stated as the best ReactJS training centre, whereas locates ReactJS training in Bangalore ; ReactJS development training in Bangalore; React training in BTM; ReactJS training in Marathahalli; also benefits as ReactJS training online and ReactJS online training ; React training ; React native training.</li>
+                </ul>
+            </li>
+            <li><span>Back-end Courses:</span><br>Microsoft.NET ; PHP ; Python ; Ruby ; Java</li>
+            <li><span>Mobile Development Courses :</span><br>Android App Development ; IOS App App Development ; Windows App Development ; Hybrid App Development.</li>
+            <li><span>Full Stack Development Courses :</span> <br>Java Full Stack Training ; Net Full Stack Training ; Node.JS Full Stack Training ; PHP Full Stack Training ; MEAN Full Stack Training ; MERN Full Stack Training.</li>
+            <li><span>Digital Marketing Courses :</span><br>Digital Marketing ; Affiliate Marketing ; Email Marketing ; Google Analytics ; Lead Generation ; Remarketing ; Search Engine Optimization ; SMS Marketing ; Social Media Marketing ; WordPress.</li>
+            <li><span>Database Programming Courses :</span><br>MySQL Training ; Oracle Training ; Mongo DB Training ; NoSQL Training ; PostgreSQL Training.</li>
+            <li><span>Project Management Courses :</span><br>Prince2 Training ; PMP Training ; Six Sigma Training.</li>
+        </ol>
+
+        <h3>Apart from imparting skills and knowledge, AchieversIT comes up with flexible modes of training :</h3>
+        <ol>
+            <li>Classroom Training in Bangalore</li>
+            <li> Live Virtual Training with Instructor-Led Sessions</li>
+            <li>Self-Study (e-Learning)</li>
+        </ol>
+
+        <h3>You can choose your mode of training according to your comfort and achieve your courses with certifications.</h3>
+        <p>Perks and advantages of learning with AchieversIT :</p>
+        <ol>
+            <li>90 hours of training</li>
+            <li>Reasonable course fees</li>
+            <li>200 hours of lab practical sessions under experts’ mentorship</li>
+            <li>Hands-on experience with case studies with real-time examples</li>
+            <li>24*7 access and support by the team</li>
+            <li>Industry experts & Certified trainers</li>
+            <li>100% placement support</li>
+            <li> Industry-aligned curriculum with current market trends and needs</li>
+            <li>Extra hours of inputs for non-technical individuals</li>
+            <li>Flexible mode of learning</li>
+        </ol>
+
+        <h3>You get to attend JOB-Oriented training with real-time knowledge and live projects which comes at an affordable price with effective Instructor-led sessions.</h3>
+        <p>We, at AchieversIT strive to deliver our best efforts; and concentrate and help you in achieving your dream job you always wished for. We are dedicated to deliver excellence and impart knowledge to the individuals aspiring a career in not only IT sectors but also in various other fields like Digital Marketing, Project Management etc. Our curriculum for all the courses is reviewed systematically to keep our candidates at the cutting edges of technologies.</p>
+
+        <br>
+        <form class="know-form">
+            <p><span>Impressed by Us? Enroll Now</span><br>Structure your learning and get a certificate to prove it.</p>
+
+            <label for="mail">EMAIL</label>
+            <input type="email" name="Email" id="mail" placeholder="Email">
+
+            <label for="contact">CONTACT NUMBER</label>
+            <input type="text" name="contact number" id="contact" placeholder="Contact Number">      
+            
+            <input type="text" placeholder="Captch Text" >
+
+            <button type="button" id="reach-us">Reach us</button>
+        </form>
+        <br><br>
+        <h4 style="opacity: 0;color: red;">Super</h4>
+    </div>
+
+     <!-- -----------------------------------------LOCATIONS---------------------------------------------------- -->
+    <div class="location">
+       <section class="location-head">
+        <h2>Locations</h2>
+        <p>Come and discuss with us about your goals ,We transform your goals into success!!!</p>
+       </section>
+       <section class="location-1">
+            <div>
+                <h3><i class="fa-solid fa-location-dot" style="color: #ff951d;"></i>BTM Layout - Bangalore</h3>
+                <p>#63, 1st Floor, 16th Main, 8th Cross BTM 1st Stage, BTM Layout, Bengaluru, Karnataka 560029</p>
+           </div>
+            <div>
+                <h3><i class="fa-solid fa-location-dot" style="color: #ff951d;"></i>Marathahalli - Bangalore</h3>
+                <p>#1, 4th Main Rd, Extension, Ayyappa Layout, Chandra Layout, Marathahalli, Bengaluru, Karnataka 560037</p>
+            </div>
+            <div>       
+                <h3><i class="fa-solid fa-location-dot" style="color: #ff951d;"></i>Kukatpally - Hyderabad</h3>
+                <p>#101,Vandana's Trade Center, Beside Padmavathi Plaza, Above Union Bank,Kukatpally,Hyderabad 500072</p>
+            </div>
+       </section>
+       <br>
+       <section class="location-2">
+        <div>
+            <h3><i class="fa-solid fa-location-dot" style="color: #ff951d;"></i>Mumbai - Maharasthra</h3>
+            <p>Satra Plaza, Unit No. 1011, 10th Floor, Palm Beach, Rd Phase 2, Sector 14,19D, Vashi, Navi Mumbai, Maharashtra - 400703</p>
+       </div>
+        <div>
+            <h3><i class="fa-solid fa-location-dot" style="color: #ff951d;"></i>Pune - Maharasthra</h3>
+            <p>Times Square, S-699/1, Near Saibaba Mandir, Pune-Satara Road, Pune -411037.</p>
+        </div>
+        <div>
+            <h3><i class="fa-solid fa-location-dot" style="color: #ff951d;"></i>Chennai - Tamilnadu</h3>
+            <p>No 7, Dayasadan road, Opp Shell petrol pump, near Amma Unavagam, Nerkundrum, Chennai - 600 107</p>
+        </div>
+       </section>
+    </div>
+    <br>
+
+<!-- ///////////////////////////////////////////////ADDDRESS///////////////////////////////////////////-->
+ <div class="foot-black">
+    <footer class="foot-1">
+        <div>
+            <p class="row"> <img src="./Project files/footer images/AIT-white.jpg" alt="AIT Image">
+                AchieversIT - Provides a wide group of opportunities for freshers
+                 and Experienced candidate who can develop their skills and build  
+                 their career opportunities across multiple Companies.
+            </p>
+        </div>
+        <div>
+            <ul>
+                <li class="foot-head-1">COMPANY</li> <br>
+                <li>Home</li>
+                <li>Placements</li>
+                <li>Corporate Training</li>
+                <li>Contact us</li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li class="foot-head-1">TRENDING COURSES</li> <br>
+                <li>UI Development Course</li>
+                <li>Angular JS Course</li>
+                <li>React JS Course</li>
+                <li>Digital Marketing Course</li>
+                <li>Python Course</li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li class="foot-head-1">CONTACT INFO</li> <br>
+                <li>#63, 1st Floor, 16th Main, 8th Cross,BTM 1st Stage, Bangalore, India - 560029</li>
+                <li>India : +91 8431-040-457</li>
+                <li>info@achieversit.com</li>
+            </ul>
+        </div>
+    </footer>
+<!-- -------------------------------------------------------------------------------- -->
+  <footer class="foot-2">
+        <div class="icon-1">
+            <i class="fa-brands fa-facebook" style="font-size:30px;" ></i>
+            <i class="fa-brands fa-instagram"  style="font-size:30px;"></i>
+            <i class="fa-brands fa-linkedin-in"  style="font-size:30px;"></i>
+            <i class="fa-brands fa-twitter"  style="font-size:30px;"></i>
+            <i class="fa-brands fa-pinterest"  style="font-size:30px;"></i>
+            <i class="fa-brands fa-youtube"  style="font-size:30px;"></i>
+        </div>
+        
+            <ul class="foot-2-cont">
+                <p>Copyright © 2024 AchieversIT. All Rights Reserved</p>
+                <li>Privacy Policy</li>
+                <li>Terms of use</li>
+                <li>Refund Policy</li>
+            </ul>
+         <br>
+    </footer>
+<!------------------------------------- -------------------------------------  -->
+    <footer class="footer-fixed">
+        <ul class="fix-foot">
+            <li> <i class="fa-sharp fa-solid fa-phone-volume" style="color: #2600ff; " ></i> Call us on : +91 8151000080</li>
+            <li> <i class="fa-solid fa-envelope" style="color: #ff0000;"></i>Request A Call Back</li>
+            <li> <i class="fa-brands fa-whatsapp" style="color: #129e00;font-size:40px;"></i> Chat With US!</li>
+        </ul>
+    </footer>
+ </div>
+</body>
+</html>
